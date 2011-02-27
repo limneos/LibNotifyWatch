@@ -1,0 +1,14 @@
+Package: libnotify
+Name: NotifyWatch
+Version: 0.1
+Architecture: iphoneos-arm
+Icon: file:///System/Library/PreferencesBundles/LibNotifyWatch.bundle/LibNotifyWatch.png
+Maintainer: Elias Limneos <iphone@limneos.net>
+Depends: mobilesubstrate,  preferenceloader,  firmware ( >= 4.0 )
+Description: Log system-posted notifications
+ This tool is intented for developers. 
+ Please do not install unless you know what you're doing.
+ 
+ This library offers logging of most system notification-posting
+ functions.
+ Filtering options and function hooking selection available in settings.
