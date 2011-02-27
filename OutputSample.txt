@@ -1,0 +1,27 @@
+Feb 28 00:45:37 Limneos-iPhone4 SpringBoard[5323]: LibNotifyWatch: notify_post com.apple.springboard.orientation
+Feb 28 00:45:37 Limneos-iPhone4 SpringBoard[5323]: LibNotifyWatch: notify_post com.apple.springboard.unambiguousOrientation
+Feb 28 00:45:37 Limneos-iPhone4 SpringBoard[5323]: LibNotifyWatch: notify_post com.apple.airport.userNotification
+Feb 28 00:45:37 Limneos-iPhone4 SpringBoard[5323]: LibNotifyWatch: notify_post com.apple.mobile.SubstantialTransition
+Feb 28 00:45:37 Limneos-iPhone4 SpringBoard[5323]: LibNotifyWatch: notify_post com.apple.Preferences-suspended
+Feb 28 00:45:37 Limneos-iPhone4 SpringBoard[5323]: LibNotifyWatch: notify_post com.apple.airportsettingsvisible
+Feb 28 00:45:49 Limneos-iPhone4 SpringBoard[5323]: LibNotifyWatch: notify_post com.apple.springboard.fullycharged
+Feb 28 00:45:51 Limneos-iPhone4 SpringBoard[5323]: LibNotifyWatch: notify_post com.apple.springboard.callinterruptedapp
+Feb 28 00:45:51 Limneos-iPhone4 SpringBoard[5323]: LibNotifyWatch: notify_post com.apple.Preferences-activated
+Feb 28 00:45:52 Limneos-iPhone4 SpringBoard[5323]: LibNotifyWatch: notify_post com.apple.airport.userNotification
+Feb 28 00:45:52 Limneos-iPhone4 SpringBoard[5323]: LibNotifyWatch: notify_post com.apple.mobile.SubstantialTransition
+Feb 28 00:45:52 Limneos-iPhone4 SpringBoard[5323]: LibNotifyWatch: notify_post com.apple.springboard.orientation
+Feb 28 00:45:52 Limneos-iPhone4 SpringBoard[5323]: LibNotifyWatch: notify_post com.apple.springboard.unambiguousOrientation
+Feb 28 00:45:53 Limneos-iPhone4 Preferences[5350]: LibNotifyWatch: notify_post libnotify.prefsChanged
+Feb 28 00:45:56 Limneos-iPhone4 SpringBoard[5323]: LibNotifyWatch: notify_post com.apple.springboard.orientation
+Feb 28 00:45:56 Limneos-iPhone4 SpringBoard[5323]: LibNotifyWatch: notify_post com.apple.springboard.unambiguousOrientation
+Feb 28 00:45:56 Limneos-iPhone4 SpringBoard[5323]: LibNotifyWatch: notify_post com.apple.airport.userNotification
+Feb 28 00:45:56 Limneos-iPhone4 SpringBoard[5323]: LibNotifyWatch: CFNotificationCenterPostNotification center=<CFNotificationCenter 0x229230 
+[0x3ea4f9fc]> name=com.apple.mobile.SubstantialTransition userInfo=(null) deliverImmediately=0
+Feb 28 00:45:56 Limneos-iPhone4 SpringBoard[5323]: LibNotifyWatch: notify_post com.apple.mobile.SubstantialTransition
+Feb 28 00:45:56 Limneos-iPhone4 SpringBoard[5323]: LibNotifyWatch: CFNotificationCenterPostNotification center=<CFNotificationCenter 0x229230 
+[0x3ea4f9fc]> name=com.apple.Preferences-suspended userInfo=(null) deliverImmediately=1
+Feb 28 00:45:56 Limneos-iPhone4 SpringBoard[5323]: LibNotifyWatch: notify_post com.apple.Preferences-suspended
+Feb 28 00:45:56 Limneos-iPhone4 SpringBoard[5323]: LibNotifyWatch: notify_post com.apple.airportsettingsvisible
+Feb 28 00:45:56 Limneos-iPhone4 SpringBoard[5323]: LibNotifyWatch: CFNotificationCenterPostNotification center=<CFNotificationCenter 0x235090 
+[0x3ea4f9fc]> name=BufferBackingWillDeallocate userInfo=(null) deliverImmediately=1
+
