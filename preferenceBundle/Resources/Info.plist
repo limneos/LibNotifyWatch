@@ -5,9 +5,9 @@
 	<key>CFBundleDevelopmentRegion</key>
 	<string>English</string>
 	<key>CFBundleExecutable</key>
-	<string>ScrollingBoardPrefs</string>
+	<string>LibNotifyWatch</string>
 	<key>CFBundleIdentifier</key>
-	<string>net.limneos.scrollingboardprefs</string>
+	<string>libnotify</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundlePackageType</key>
@@ -23,6 +23,6 @@
 	<key>MinimumOSVersion</key>
 	<string>3.0</string>
 	<key>NSPrincipalClass</key>
-	<string>ScrollingBoardPrefsListController</string>
+	<string>LibNotifyListController</string>
 </dict>
 </plist>

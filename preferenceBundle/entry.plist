@@ -5,17 +5,17 @@
 	<key>entry</key>
 	<dict>
 		<key>bundle</key>
-		<string>LibNotify</string>
+		<string>LibNotifyWatch</string>
 		<key>cell</key>
 		<string>PSLinkCell</string>
 		<key>detail</key>
 		<string>LibNotifyListController</string>
 		<key>icon</key>
-		<string>LibNotify.png</string>
+		<string>LibNotifyWatch.png</string>
 		<key>isController</key>
 		<string>1</string>
 		<key>label</key>
-		<string>LibNotify</string>
+		<string>LibNotifyWatch</string>
 	</dict>
 </dict>
 </plist>
