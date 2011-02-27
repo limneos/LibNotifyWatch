@@ -24,4 +24,7 @@ Feb 28 00:45:56 Limneos-iPhone4 SpringBoard[5323]: LibNotifyWatch: notify_post c
 Feb 28 00:45:56 Limneos-iPhone4 SpringBoard[5323]: LibNotifyWatch: notify_post com.apple.airportsettingsvisible
 Feb 28 00:45:56 Limneos-iPhone4 SpringBoard[5323]: LibNotifyWatch: CFNotificationCenterPostNotification center=<CFNotificationCenter 0x235090 
 [0x3ea4f9fc]> name=BufferBackingWillDeallocate userInfo=(null) deliverImmediately=1
+Feb 28 00:47:53 Limneos-iPhone4 MobileSMS[5780]: LibNotifyWatch: SQLITE3_PREPARE_V2 query=SELECT value, record_id, identifier FROM ABMultiValue WHERE 
+UID IN (SELECT multivalue_id FROM ABPhoneLastFour WHERE value = ? OR value = ? OR value = ? OR value = ? OR value = ? OR value = ? OR value = ? OR 
+value = ? );
 
