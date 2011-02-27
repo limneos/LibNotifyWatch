@@ -57,6 +57,6 @@ Thanks to:
  Saurik for cycript and everything else
 
  Many other developers from IRC from which I've learned a lot, including
- rpetrich, BigBoss, DB42, kennytm, mringwal, TheZimm, Yllier
+ rpetrich, BigBoss, DB42, kennytm, chpwn, mringwal, TheZimm, Yllier
 
 
