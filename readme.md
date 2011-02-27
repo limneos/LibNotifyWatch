@@ -36,3 +36,27 @@ Open Source
 
 LibNotifyWatch is open-source, any help / modification / addition is 
 appreaciated.
+
+
+Compile
+-------
+
+LibNotifyWatch is compiled using Theos. For more information about 
+Theos/Logos, visit http://bit.ly/af0Evu and http://hwtt.net/ths
+
+
+Thanks
+------
+
+Thanks to:
+
+ Optimo for being my mentor
+
+ DHowett for Theos/Logos and all the background work he's done for the community
+
+ Saurik for cycript and everything else
+
+ Many other developers from IRC from which I've learned a lot, including
+ rpetrich, BigBoss, DB42, kennytm, mringwal, TheZimm, Yllier
+
+
